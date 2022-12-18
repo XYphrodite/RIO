@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T13:31:22.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ivVHgkWGFghns3taUp0N" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T13:33:05.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pvFWHglkSiPCsokVuxbE" version="20.6.0" type="github">
   <diagram id="sMmAQYCs5EyKu3Fh2t2H" name="Page-1">
     <mxGraphModel dx="3327" dy="901" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -607,31 +607,40 @@
           <mxGeometry x="-797" y="2272" width="71" height="29" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1458" y="2396" width="482" height="134" as="geometry" />
+          <mxGeometry x="-1249" y="2386" width="482" height="134" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-115" value="MVC контроллер" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="2410" width="120" height="35" as="geometry" />
+          <mxGeometry x="-1210" y="2412" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-116" value="API контроллер" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1264" y="2412" width="120" height="33" as="geometry" />
+          <mxGeometry x="-1058" y="2412" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-117" value="Razor Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1113" y="2410" width="120" height="35" as="geometry" />
+          <mxGeometry x="-911" y="2410" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-119" value="Контроллеры, ViewModels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1442" y="2466" width="173" height="30" as="geometry" />
+          <mxGeometry x="-1203" y="2467" width="173" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1471" y="2553" width="933" height="219" as="geometry" />
+          <mxGeometry x="-1170" y="2553" width="265" height="219" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-121" value="Views" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1452" y="2723" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1161" y="2684" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0_WBCbqgJbCGg01KjeH-125" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="c0_WBCbqgJbCGg01KjeH-113" target="c0_WBCbqgJbCGg01KjeH-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1586" y="2570" as="sourcePoint" />
             <mxPoint x="-1536" y="2520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c0_WBCbqgJbCGg01KjeH-126" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0_WBCbqgJbCGg01KjeH-120" target="c0_WBCbqgJbCGg01KjeH-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-760" y="2473" as="sourcePoint" />
+            <mxPoint x="-710" y="2423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0_WBCbqgJbCGg01KjeH-127" value="Веб страница" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1062" y="2649" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
